@@ -2,31 +2,136 @@ import 'package:flutter/material.dart';
 import 'package:tailwind_standards/src/tailwind_colors.dart';
 
 class TColor {
-  /// Color: Slate {500 : '#64748b'}
+  /// Slate
   ///
-  /// ![](assets/color_palettes/slate.png)
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/slate.png?raw=true|width=500)
   ///
   static TColorShade get slate => TColorShade('slate');
+
+  /// Gray
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/gray.png?raw=true|width=500)
+  ///
   static TColorShade get gray => TColorShade('gray');
+
+  /// Zinc
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/zinc.png?raw=true|width=500)
+  ///
   static TColorShade get zinc => TColorShade('zinc');
+
+  /// Neutral
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/neutral.png?raw=true|width=500)
+  ///
   static TColorShade get neutral => TColorShade('neutral');
+
+  /// Stone
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/stone.png?raw=true|width=500)
+  ///
   static TColorShade get stone => TColorShade('stone');
+
+  /// Red
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/red.png?raw=true|width=500)
+  ///
   static TColorShade get red => TColorShade('red');
+
+  /// Orange
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/orange.png?raw=true|width=500)
+  ///
   static TColorShade get orange => TColorShade('orange');
+
+  /// Amber
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/amber.png?raw=true|width=500)
+  ///
   static TColorShade get amber => TColorShade('amber');
+
+  /// Yellow
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/yellow.png?raw=true|width=500)
+  ///
   static TColorShade get yellow => TColorShade('yellow');
+
+  /// Lime
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/lime.png?raw=true|width=500)
+  ///
   static TColorShade get lime => TColorShade('lime');
+
+  /// Green
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/green.png?raw=true|width=500)
+  ///
   static TColorShade get green => TColorShade('green');
+
+  /// Emerald
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/emerald.png?raw=true|width=500)
+  ///
   static TColorShade get emerald => TColorShade('emerald');
+
+  /// Teal
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/teal.png?raw=true|width=500)
+  ///
   static TColorShade get teal => TColorShade('teal');
+
+  /// Cyan
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/cyan.png?raw=true|width=500)
+  ///
   static TColorShade get cyan => TColorShade('cyan');
+
+  /// Sky
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/sky.png?raw=true|width=500)
+  ///
   static TColorShade get sky => TColorShade('sky');
+
+  /// Blue
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/blue.png?raw=true|width=500)
+  ///
   static TColorShade get blue => TColorShade('blue');
+
+  /// Indigo
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/indigo.png?raw=true|width=500)
+  ///
   static TColorShade get indigo => TColorShade('indigo');
+
+  /// Violet
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/violet.png?raw=true|width=500)
+  ///
   static TColorShade get violet => TColorShade('violet');
+
+  /// Purple
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/purple.png?raw=true|width=500)
+  ///
   static TColorShade get purple => TColorShade('purple');
+
+  /// Fuchsia
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/fuchsia.png?raw=true|width=500)
+  ///
   static TColorShade get fuchsia => TColorShade('fuchsia');
+
+  /// Pink
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/pink.png?raw=true|width=500)
+  ///
   static TColorShade get pink => TColorShade('pink');
+
+  /// Rose
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/rose.png?raw=true|width=500)
+  ///
   static TColorShade get rose => TColorShade('rose');
 }
 
