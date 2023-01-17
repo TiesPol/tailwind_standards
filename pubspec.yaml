@@ -1,6 +1,7 @@
 name: tailwind_standards
-description: A new Flutter package project.
+description: A styling package based on Tailwind standards.
 version: 0.0.1
+repository: https://github.com/TiesPol/tailwind_standards
 
 environment:
   sdk: ">=2.18.4 <3.0.0"
