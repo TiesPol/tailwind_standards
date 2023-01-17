@@ -21,7 +21,7 @@ TColor has all the default colors that tailwind offers. You can access every col
 ``` 
 Color tcolor = TColor.slate500;
 ```
-![Alt text](assets/read_me/tcolor_preview.png "TColor preview")
+![Alt text](https://github.com/TiesPol/tailwind_standards/blob/main/assets/read_me/tcolor_preview.png?raw=true "TColor preview")
 
 ### TSize
 TSize has all the default Tailwind sizes that are mostly used in padding, margin, etc.
