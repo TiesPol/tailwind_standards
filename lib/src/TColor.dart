@@ -3,7 +3,8 @@ import 'package:tailwind_standards/src/utils/hex_color_extension.dart';
 import 'package:tailwind_standards/src/utils/tailwind_colors.dart';
 
 class TColor {
-  static Color getHex(String color, int shade) => HexColor.fromHex(tailwindColors[color][shade]);
+  static Color getHex(String color, int shade) =>
+      HexColor.fromHex(tailwindColors[color][shade]);
 
   ///* slate: 500 (Default)
   ///
