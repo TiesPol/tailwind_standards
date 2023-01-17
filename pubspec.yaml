@@ -1,5 +1,5 @@
 name: tailwind_standards
-description: A styling package for Flutter based on Tailwind standards.
+description: A Flutter styling package based on the standards of Tailwind. Directly access to the default colors & same way of styling as in HTML with Tailwind.
 version: 0.0.1
 repository: https://github.com/TiesPol/tailwind_standards
 
@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  google_fonts: ^3.0.1
 
 dev_dependencies:
   flutter_lints: ^2.0.0

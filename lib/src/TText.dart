@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:tailwind_standards/src/utils/hex_color_extension.dart';
 import 'package:tailwind_standards/src/utils/tailwind_colors.dart';
 import 'package:tailwind_standards/tailwind_standards.dart';
@@ -33,7 +32,6 @@ TextStyle textStyle(List<String> props) {
   params = props.map((e) => e.trim()).toList();
 
   return TextStyle(
-    fontFamily: GoogleFonts.inter(fontWeight: fontWeightTW(params) ?? FontWeight.w400).fontFamily,
     fontSize: fontSizeTW(params) ?? 16,
     color: colorTW(params) ?? TColor.neutral900,
   );
