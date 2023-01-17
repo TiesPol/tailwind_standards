@@ -3,8 +3,8 @@ A styling package based on Tailwind standards. It uses the default colors, sizes
 
 ## Features
 - TColor: use all tailwind default colors
-- TSize: all tailwind default sizes easily accessable
-- TWeight: use the naming convention of tailwind for weights
+- TSize: all tailwind default sizes are easily accessible
+- TWeight: use the naming convention of Tailwind for weights
 - TText: A extension on the Flutter Text widget that can be styled in the same way as a class in HTML.
 
 ## Getting started
@@ -30,7 +30,7 @@ int tsize = TSize.lg;
 ```
 
 ### TWeight
-TWeight translates the the tailwind naming convention to font weights to Flutter's ```FontWeight```
+TWeight translates the tailwind naming convention to font weights to Flutter's ```FontWeight```
 ```
 FontWeight tweight = TWeight.semibold;
 ```
@@ -45,4 +45,4 @@ const TText(
 ```
 ## Additional information
 
-Feedback is always welcome! If you see improvements or something comes to your attention, please let me know!
+Feedback is always welcome! If you see improvements or if something comes to your attention, please let me know!
