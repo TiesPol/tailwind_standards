@@ -1,3 +1,5 @@
+## 1.0.1
+Formatting
 ## 1.0.0
 Stable version
 ## 0.0.2
