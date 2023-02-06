@@ -52,7 +52,8 @@ TextAlign? textAlignTW(List<String> params) {
     return null;
   }
 
-  return textAlignmentsTW[params.toSet().intersection(textAlignmentsTW.keys.toSet()).first];
+  return textAlignmentsTW[
+      params.toSet().intersection(textAlignmentsTW.keys.toSet()).first];
 }
 
 Color? colorTW(List<String> params) {
@@ -106,7 +107,8 @@ double? fontSizeTW(List<String> params) {
     return null;
   }
 
-  return fontSizesTW[params.toSet().intersection(fontSizesTW.keys.toSet()).first];
+  return fontSizesTW[
+      params.toSet().intersection(fontSizesTW.keys.toSet()).first];
 }
 
 FontWeight? fontWeightTW(List<String> params) {
@@ -126,7 +128,8 @@ FontWeight? fontWeightTW(List<String> params) {
     return null;
   }
 
-  return fontWeightsTW[params.toSet().intersection(fontWeightsTW.keys.toSet()).first];
+  return fontWeightsTW[
+      params.toSet().intersection(fontWeightsTW.keys.toSet()).first];
 }
 
 TextOverflow? textOverflowTW(List<String> params) {
@@ -141,5 +144,6 @@ TextOverflow? textOverflowTW(List<String> params) {
     return null;
   }
 
-  return textOverflows[params.toSet().intersection(textOverflows.keys.toSet()).first];
+  return textOverflows[
+      params.toSet().intersection(textOverflows.keys.toSet()).first];
 }
