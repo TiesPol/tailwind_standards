@@ -17,7 +17,7 @@ class TWeight {
   static const FontWeight medium = FontWeight.w500;
 
   /// font weight: 600
-  static const FontWeight semibold = FontWeight.w600;
+  static const FontWeight semiBold = FontWeight.w600;
 
   /// font weight: 700
   static const FontWeight bold = FontWeight.w700;
