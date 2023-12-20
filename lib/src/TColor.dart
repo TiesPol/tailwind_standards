@@ -166,7 +166,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get gray900 => getHex('gray', 900);
-  
+
   ///* gray: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/gray/gray_950.png?raw=true|width=200)
@@ -250,7 +250,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get zinc900 => getHex('zinc', 900);
- 
+
   ///* zinc: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/zinc/zinc_950.png?raw=true|width=200)
@@ -334,7 +334,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get neutral900 => getHex('neutral', 900);
-  
+
   ///* neutral: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/neutral/neutral_950.png?raw=true|width=200)
@@ -418,7 +418,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get stone900 => getHex('stone', 900);
-  
+
   ///* stone: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/stone/stone_950.png?raw=true|width=200)
@@ -502,7 +502,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get red900 => getHex('red', 900);
- 
+
   ///* red: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/red/red_950.png?raw=true|width=200)
@@ -586,7 +586,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get orange900 => getHex('orange', 900);
- 
+
   ///* orange: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/orange/orange_950.png?raw=true|width=200)
@@ -754,7 +754,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get yellow900 => getHex('yellow', 900);
-  
+
   ///* yellow: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/yellow/yellow_950.png?raw=true|width=200)
@@ -838,7 +838,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get lime900 => getHex('lime', 900);
-  
+
   ///* lime: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/lime/lime_950.png?raw=true|width=200)
@@ -922,7 +922,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get green900 => getHex('green', 900);
- 
+
   ///* green: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/green/green_950.png?raw=true|width=200)
@@ -1090,7 +1090,7 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get teal900 => getHex('teal', 900);
- 
+
   ///* teal: 950
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/teal/teal_950.png?raw=true|width=200)
