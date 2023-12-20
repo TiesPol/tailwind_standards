@@ -83,6 +83,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get slate900 => getHex('slate', 900);
 
+  ///* slate: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/slate/slate_950?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get slate950 => getHex('slate', 950);
+
   ///* gray: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/gray.png?raw=true|width=500)
@@ -159,6 +166,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get gray900 => getHex('gray', 900);
+  
+  ///* gray: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/gray/gray_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get gray950 => getHex('gray', 950);
 
   ///* zinc: 500 (Default)
   ///
@@ -236,6 +250,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get zinc900 => getHex('zinc', 900);
+ 
+  ///* zinc: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/zinc/zinc_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get zinc950 => getHex('zinc', 950);
 
   ///* neutral: 500 (Default)
   ///
@@ -313,6 +334,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get neutral900 => getHex('neutral', 900);
+  
+  ///* neutral: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/neutral/neutral_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get neutral950 => getHex('neutral', 950);
 
   ///* stone: 500 (Default)
   ///
@@ -390,6 +418,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get stone900 => getHex('stone', 900);
+  
+  ///* stone: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/stone/stone_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get stone950 => getHex('stone', 950);
 
   ///* red: 500 (Default)
   ///
@@ -467,6 +502,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get red900 => getHex('red', 900);
+ 
+  ///* red: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/red/red_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get red950 => getHex('red', 950);
 
   ///* orange: 500 (Default)
   ///
@@ -544,6 +586,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get orange900 => getHex('orange', 900);
+ 
+  ///* orange: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/orange/orange_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get orange950 => getHex('orange', 950);
 
   ///* amber: 500 (Default)
   ///
@@ -622,6 +671,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get amber900 => getHex('amber', 900);
 
+  ///* amber: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/amber/amber_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get amber950 => getHex('amber', 950);
+
   ///* yellow: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/yellow.png?raw=true|width=500)
@@ -698,6 +754,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get yellow900 => getHex('yellow', 900);
+  
+  ///* yellow: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/yellow/yellow_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get yellow950 => getHex('yellow', 950);
 
   ///* lime: 500 (Default)
   ///
@@ -775,6 +838,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get lime900 => getHex('lime', 900);
+  
+  ///* lime: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/lime/lime_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get lime950 => getHex('lime', 950);
 
   ///* green: 500 (Default)
   ///
@@ -852,6 +922,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get green900 => getHex('green', 900);
+ 
+  ///* green: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/green/green_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get green950 => getHex('green', 950);
 
   ///* emerald: 500 (Default)
   ///
@@ -930,6 +1007,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get emerald900 => getHex('emerald', 900);
 
+  ///* emerald: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/emerald/emerald_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get emerald950 => getHex('emerald', 950);
+
   ///* teal: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/teal.png?raw=true|width=500)
@@ -1006,6 +1090,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get teal900 => getHex('teal', 900);
+ 
+  ///* teal: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/teal/teal_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get teal950 => getHex('teal', 950);
 
   ///* cyan: 500 (Default)
   ///
@@ -1084,6 +1175,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get cyan900 => getHex('cyan', 900);
 
+  ///* cyan: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/cyan/cyan_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get cyan950 => getHex('cyan', 950);
+
   ///* sky: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/sky.png?raw=true|width=500)
@@ -1160,6 +1258,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get sky900 => getHex('sky', 900);
+
+  ///* sky: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/sky/sky_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get sky950 => getHex('sky', 950);
 
   ///* blue: 500 (Default)
   ///
@@ -1238,6 +1343,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get blue900 => getHex('blue', 900);
 
+  ///* blue: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/blue/blue_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get blue950 => getHex('blue', 950);
+
   ///* indigo: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/indigo.png?raw=true|width=500)
@@ -1314,6 +1426,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get indigo900 => getHex('indigo', 900);
+
+  ///* indigo: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/indigo/indigo_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get indigo950 => getHex('indigo', 950);
 
   ///* violet: 500 (Default)
   ///
@@ -1392,6 +1511,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get violet900 => getHex('violet', 900);
 
+  ///* violet: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/violet/violet_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get violet950 => getHex('violet', 950);
+
   ///* purple: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/purple.png?raw=true|width=500)
@@ -1468,6 +1594,13 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get purple900 => getHex('purple', 900);
+
+  ///* purple: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/purple/purple_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get purple950 => getHex('purple', 950);
 
   ///* fuchsia: 500 (Default)
   ///
@@ -1546,6 +1679,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get fuchsia900 => getHex('fuchsia', 900);
 
+  ///* fuchsia: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/fuchsia/fuchsia_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get fuchsia950 => getHex('fuchsia', 950);
+
   ///* pink: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/pink.png?raw=true|width=500)
@@ -1623,6 +1763,13 @@ class TColor {
   /// https://tailwindcss.com/docs/customizing-colors
   static get pink900 => getHex('pink', 900);
 
+  ///* pink: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/pink/pink_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get pink950 => getHex('pink', 950);
+
   ///* rose: 500 (Default)
   ///
   /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/rose.png?raw=true|width=500)
@@ -1699,4 +1846,11 @@ class TColor {
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get rose900 => getHex('rose', 900);
+
+  ///* rose: 950
+  ///
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/rose/rose_950.png?raw=true|width=200)
+  ///
+  /// https://tailwindcss.com/docs/customizing-colors
+  static get rose950 => getHex('rose', 950);
 }

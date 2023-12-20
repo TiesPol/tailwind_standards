@@ -1,6 +1,6 @@
 name: tailwind_standards
-description: A Flutter styling package based on the standards of Tailwind. Directly access to the default colors & same way of styling as in HTML with Tailwind.
-version: 1.0.1
+description: Tailwind CSS for Flutter. Colors, Sizes, Weights and a TText widget to style your app.
+version: 1.1.0
 repository: https://github.com/TiesPol/tailwind_standards
 
 environment:

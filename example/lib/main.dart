@@ -12,7 +12,7 @@ class TailwindStandards extends StatelessWidget {
       ),
       body: Container(
         // Tailwind color
-        color: TColor.blue500,
+        color: TColor.blue950,
         child: Column(
           children: [
             // TText widget from the package

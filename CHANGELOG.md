@@ -1,3 +1,6 @@
+## 1.1.0
+- Added color shade 950
+- Update README.md and meta information.
 ## 1.0.1
 Formatting
 ## 1.0.0
