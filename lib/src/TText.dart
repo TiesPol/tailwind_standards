@@ -10,8 +10,8 @@ class TText extends StatelessWidget {
   const TText(
     this.text, {
     this.props,
-    Key? key,
-  }) : super(key: key);
+    super.key,
+  });
 
   @override
   Widget build(BuildContext context) {
