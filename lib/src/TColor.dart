@@ -85,7 +85,7 @@ class TColor {
 
   ///* slate: 950
   ///
-  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/slate/slate_950?raw=true|width=200)
+  /// ![](https://github.com/TiesPol/tailwind_standards/blob/main/assets/color_palettes/slate/slate_950.png?raw=true|width=200)
   ///
   /// https://tailwindcss.com/docs/customizing-colors
   static get slate950 => getHex('slate', 950);
